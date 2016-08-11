@@ -1,0 +1,5 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\TypeConversion\bin\Release\TypeConversion.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\TypeConversion\bin\Release\TypeConversion.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\TypeConversion\bin\Release\TypeConversion.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\TypeConversion\obj\Release\TypeConversion.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\TypeConversion\obj\Release\TypeConversion.pdb

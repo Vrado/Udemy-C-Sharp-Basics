@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
 
             //Variables
+            
             var number = 2;
             var count = 10;
             var totalPrice = 20.95f;
@@ -18,6 +19,10 @@ namespace HelloWorld
             Console.WriteLine(count);
             Console.WriteLine(totalPrice);
             Console.WriteLine(isWorking);
+            
+
+            //Format String
+            Console.WriteLine("{0} {1}",float.MinValue, float.MaxValue);
             
 
 

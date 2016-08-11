@@ -1,0 +1,5 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
