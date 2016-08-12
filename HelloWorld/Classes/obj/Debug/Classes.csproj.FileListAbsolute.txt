@@ -1,0 +1,6 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\bin\Debug\Classes.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\bin\Debug\Classes.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\bin\Debug\Classes.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\obj\Debug\Classes.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Classes\obj\Debug\Classes.pdb
