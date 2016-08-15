@@ -1,22 +1,20 @@
 ﻿using System;
 
-
 namespace TypeConversion
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             byte b = 1;
             int i = b;
             Console.WriteLine(i);
 
-          
 
             try
             {
                 var number = "1234";
-                byte a = Convert.ToByte(number);
+                var a = Convert.ToByte(number);
                 Console.WriteLine(a);
             }
             catch (Exception)
