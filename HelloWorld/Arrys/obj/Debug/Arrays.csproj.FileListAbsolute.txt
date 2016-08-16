@@ -3,3 +3,4 @@ Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Arrys\bin\Debug\Arrys.exe
 Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Arrys\bin\Debug\Arrys.pdb
 Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Arrys\obj\Debug\Arrys.exe
 Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Arrys\obj\Debug\Arrys.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Arrys\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
