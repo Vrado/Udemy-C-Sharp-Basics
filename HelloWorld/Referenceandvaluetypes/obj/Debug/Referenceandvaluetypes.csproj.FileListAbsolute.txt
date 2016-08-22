@@ -1,0 +1,5 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Referenceandvaluetypes\bin\Debug\Referenceandvaluetypes.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Referenceandvaluetypes\bin\Debug\Referenceandvaluetypes.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Referenceandvaluetypes\bin\Debug\Referenceandvaluetypes.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Referenceandvaluetypes\obj\Debug\Referenceandvaluetypes.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\Referenceandvaluetypes\obj\Debug\Referenceandvaluetypes.pdb
