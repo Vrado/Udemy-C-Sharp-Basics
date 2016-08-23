@@ -1,0 +1,5 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\switchcase\bin\Debug\switchcase.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\switchcase\bin\Debug\switchcase.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\switchcase\bin\Debug\switchcase.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\switchcase\obj\Debug\switchcase.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\switchcase\obj\Debug\switchcase.pdb

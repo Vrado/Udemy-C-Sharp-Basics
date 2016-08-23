@@ -1,0 +1,6 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\bin\Debug\IfElse2.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\bin\Debug\IfElse2.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\bin\Debug\IfElse2.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\obj\Debug\IfElse2.csprojResolveAssemblyReference.cache
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\obj\Debug\IfElse2.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\IfElse2\obj\Debug\IfElse2.pdb
