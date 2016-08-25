@@ -1,0 +1,6 @@
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\bin\Debug\RandomClass.exe.config
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\bin\Debug\RandomClass.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\bin\Debug\RandomClass.pdb
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\obj\Debug\RandomClass.csprojResolveAssemblyReference.cache
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\obj\Debug\RandomClass.exe
+Q:\DEV\CSharp\udemy\Udemy-C-Sharp-Basics\HelloWorld\RandomClass\obj\Debug\RandomClass.pdb
